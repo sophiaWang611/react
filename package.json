@@ -1,0 +1,14 @@
+{
+  "name": "mydemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh resetCache=true"
+  },
+  "dependencies": {
+    "react-native": "^0.12.0",
+    "react-native-camera": "^0.3.8",
+    "react-native-image-picker": "^0.8.0",
+    "react-tools": "git://github.com/facebook/react#b4e74e38e43ac53af8acd62c78c9213be0194245"
+  }
+}

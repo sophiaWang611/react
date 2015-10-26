@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-18c30987ace3cbc8fb212dc338a552eb850ed54b.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-ea2cf95e4b93fdc6fc8a521f0121accb915bf2ac.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-1d3f619003d23b0a0e60691707968901bdb69c9b.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-602d6001f5454979eaaccbb7389d9853362c5bc1.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-73b40f1afcb27b0d1a6cdf2f1c0102f3e9c16b69.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-c1bfaeae81a3aed743aa446b71d18992ad940b34.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-962bbb8e05eee2389d6d9dde20580e3ffb8605df.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-6f6bf196593d90a5e6873f78978380e45406d8d3.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-000b2df47a911f7b4504e3d2f6d1570fb31c7206.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99c854e791067a69667c57c7ef1b596810c94ab2">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-b002914151282b5c14f6e602e59dfca9e7d0efe6.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3136bb922859e91f41bf8d9951fc37626322222a.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-508cc5fda2e6d8bb9e66d7f8f80c17515ef07c23.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-cd0608c462c2e0a3f044e6887b6841db284e1ce5.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-e19e8510ef49ff6e3f6cba23e05dd837c7131814.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-85faace64f766330ce66c6aede19da4367914388.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-19fcd2aa3ec6684dcbefa8b72cdbfbfcf4b05049.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Documents/mydemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/classes-b332e520c5565c14d5b12cf1cadec726160ca917.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/sophia/Documents/mydemo/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b725ddc0b610470ca93d25274f0b133bd491077c.jar" />
+    </item>
+
+</items>
